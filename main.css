@@ -1,0 +1,15 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar {
+    background:white;
+}
+
+.navbar-brand, .nav-link {
+    color: gray;
+}
+
+.nav-link:hover {
+    color: black;
+}
