@@ -3,7 +3,7 @@
 }
 
 .navbar {
-    background:white;
+    background:rgb(255, 255, 255);
 }
 
 .navbar-brand, .nav-link {
@@ -12,4 +12,21 @@
 
 .nav-link:hover {
     color: black;
+}
+#left-filterbar {
+    border-right-color: gray;
+    width: 50%;
+}
+
+
+.container-fluid {
+    background-color:rgba(0, 0, 0, 0.1);
+}
+
+.container-fluid button {
+    margin: 5px;
+}
+
+.col-sm {
+    max-width: fit-content;
 }
