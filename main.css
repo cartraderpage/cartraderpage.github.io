@@ -71,9 +71,9 @@ label {
   }
     
     .market:before {
-      content: 'Market';
+      content: 'Open Market';
       display: block;
-      width: 10%;
+      width: 15%;
       padding: 0.3em;
       font-size: 2em;
       text-align: center;
@@ -85,7 +85,7 @@ label {
       font-size: medium;
     }
     .homeMarket:before {
-        content: 'Homemarket';
+        content: 'Home Market';
         display: block;
         width: 15%;
         padding: 0.3em;
